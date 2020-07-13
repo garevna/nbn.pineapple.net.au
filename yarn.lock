@@ -7848,12 +7848,15 @@ pineapple-footer@^2.0.9:
     vuetify "^2.2.11"
     vuex "^3.4.0"
 
-pineapple-how-to-connect@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/pineapple-how-to-connect/-/pineapple-how-to-connect-1.0.1.tgz#4b0faecaa9bbadb6a639796556aaf752d9efc0ae"
-  integrity sha512-+YWewlRVgIepy3U+sfaeRi/VIQ6tfw0tV1EWfEq7XOahEgsKVwNgcZTpznLyrfgy2F8QQmr2cwLYVbtliKt9Xg==
+pineapple-how-to-connect@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/pineapple-how-to-connect/-/pineapple-how-to-connect-1.0.4.tgz#ed120d25639165698bccae4bb1b1b6ec06670d2c"
+  integrity sha512-A44vEdnwxfbjbYHL7f3JT0Ch583huw/Y0zJAOAAh7KXVdUoLOTFrVUiJjeN8XUg8eoFuKL4Q4Lb9VCr588v3+Q==
   dependencies:
     core-js "^3.6.5"
+    pineapple-footer "^2.0.9"
+    pineapple-popup "^1.0.7"
+    pineapple-system-bar "^1.0.4"
     vue "^2.6.11"
     vuetify "^2.2.11"
     vuex "^3.4.0"
